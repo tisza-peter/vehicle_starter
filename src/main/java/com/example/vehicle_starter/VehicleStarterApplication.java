@@ -4,7 +4,7 @@ import com.example.vehicle_core.Store_Repository_Interface;
 import com.example.vehicle_core.VehicleCoreApplication;
 import com.example.vehicle_cui.UI_Controller;
 import com.example.vehicle_cui.UI_Presenter_Implementation;
-import com.example.vehicle_store.Store_Repository_Implementation;
+import com.example.vehicle_filedirectory_store.Store_Repository_Implementation;
 
 public class VehicleStarterApplication {
     public static void main(String[] args) {
